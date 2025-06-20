@@ -28,5 +28,7 @@ This data set has total 50 features with 1 million rows. Lesser missing data and
 -Property_Area
 
 #Out put of the result
--
+-Out Put sample images can be found in this github repo,
+-Ask users to imput 8 of their personal status and compute the possibility of the loan approval
+-Use OpenAI API to explain the result of the results outcomes
 
